@@ -10,4 +10,4 @@ jobs:
 
         steps:
         -   name: ecoar Alô Mundo
-            run: echo "Alô Mundot"
+            run: echo "Alô Mundo"
