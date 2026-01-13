@@ -5,9 +5,9 @@ on:
 
 jobs:
     alo:
-        runs-on: ubuntu-lastest
+        runs-on: ubuntu-latest
 
 
         steps:
-            name: ecoar Alô Mundo
+        -   name: ecoar Alô Mundo
             run: echo "Alô Mundo"
